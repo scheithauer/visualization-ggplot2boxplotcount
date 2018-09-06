@@ -1,22 +1,3 @@
----
-title: "How to add number of observations to a ggplot2 boxplot"
-author: "Dr. Gregor Scheithauer"
-date: "September 6, 2018"
-output: 
-  html_document: 
-    fig_height: 5
-    fig_width: 10
-    highlight: tango
-    keep_md: yes
-    number_sections: yes
-    theme: readable
-    toc: yes
-editor_options: 
-  chunk_output_type: console
----
-
-
-
 # Introduction
 
 [Boxplots](https://en.wikipedia.org/wiki/Box_plot) are extremely useful to learn more about any given dataset. Basically, it allows you to compare a continuous and a categorical variable, that includes information about distribution and statistics, such as the median. As an example, let us explore the **Iris** dataset:
