@@ -34,3 +34,9 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+.Rproj.user
+visualization-ggplot2boxplotcount.md
+visualization-ggplot2boxplotcount.Rproj
+README.html
+visualization-ggplot2boxplotcount.html
+visualization-ggplot2boxplotcount.Rmd
